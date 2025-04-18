@@ -831,7 +831,7 @@
                     <div class="item-grid-size">
                         <!-- works item IMG start -->
                         <div class="works-img-all works-img-1"></div>
-                        <a class="link-wrap popup-photo" href="img/works/works-large/works-img-1.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
+                        <a class="link-wrap popup-photo" href="img/web-1.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
                         <!-- works item IMG end -->
                         <!-- works item description start -->
                         <div class="description">
@@ -857,7 +857,7 @@
                     <div class="item-grid-size">
                         <!-- works item IMG start -->
                         <div class="works-img-all works-img-2"></div>
-                        <a class="link-wrap popup-photo" href="img/works/works-large/works-img-2.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
+                        <a class="link-wrap popup-photo" href="img/logo-1.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
                         <!-- works item IMG end -->
                         <!-- works item description start -->
                         <div class="description">
@@ -888,7 +888,7 @@
                         <!-- works item description start -->
                         <div class="description">
                             <!-- title start -->
-                            <h3>Print</h3>
+                            <h3>Web</h3>
                             <!-- title end -->
                             <!-- divider start -->
                             <div class="inner-divider-half inner-divider-half-works"></div>
@@ -909,7 +909,7 @@
                     <div class="item-grid-size">
                         <!-- works item IMG start -->
                         <div class="works-img-all works-img-4"></div>
-                        <a class="link-wrap popup-photo" href="img/works/works-large/works-img-4.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
+                        <a class="link-wrap popup-photo" href="img/web-2.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
                         <!-- works item IMG end -->
                         <!-- works item description start -->
                         <div class="description">
@@ -930,109 +930,6 @@
                     </div>
                 </div>
                 <!-- works item 4 end -->
-                <!-- works item 5 start -->
-                <div class="item-folio item item-wh">
-                    <div class="item-grid-size">
-                        <!-- works item IMG start -->
-                        <div class="works-img-all works-img-5"></div>
-                        <a class="link-wrap popup-photo" href="img/works/works-large/works-img-5.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
-                        <!-- works item IMG end -->
-                        <!-- works item description start -->
-                        <div class="description">
-                            <!-- title start -->
-                            <h3>Design</h3>
-                            <!-- title end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                            <!-- subtitle start -->
-                            <div class="description-second">A JPG Image</div>
-                            <!-- subtitle end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                        </div>
-                        <!-- works item description end -->
-                    </div>
-                </div>
-                <!-- works item 5 end -->
-                <!-- works item 6 start -->
-                <div class="item-folio item item-wh">
-                    <div class="item-grid-size">
-                        <!-- works item IMG start -->
-                        <div class="works-img-all works-img-6"></div>
-                        <a class="link-wrap popup-photo" href="img/works/works-large/works-img-6.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
-                        <!-- works item IMG end -->
-                        <!-- works item description start -->
-                        <div class="description">
-                            <!-- title start -->
-                            <h3>Print</h3>
-                            <!-- title end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                            <!-- subtitle start -->
-                            <div class="description-second">A JPG Image</div>
-                            <!-- subtitle end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                        </div>
-                        <!-- works item description end -->
-                    </div>
-                </div>
-                <!-- works item 6 end -->
-                <!-- works item 7 start -->
-                <div class="item-folio item item-wh">
-                    <div class="item-grid-size">
-                        <!-- works item IMG start -->
-                        <div class="works-img-all works-img-7"></div>
-                        <a class="link-wrap popup-photo" href="img/works/works-large/works-img-7.jpg" title="Lorem ipsum dolor sit amet."><span></span><span></span></a>
-                        <!-- works item IMG end -->
-                        <!-- works item description start -->
-                        <div class="description">
-                            <!-- title start -->
-                            <h3>Logo</h3>
-                            <!-- title end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                            <!-- subtitle start -->
-                            <div class="description-second">A JPG Image</div>
-                            <!-- subtitle end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                        </div>
-                        <!-- works item description end -->
-                    </div>
-                </div>
-                <!-- works item 7 end -->
-                <!-- works item 8 start -->
-                <div class="item-folio item item-wh">
-                    <div class="item-grid-size">
-                        <!-- works item IMG start -->
-                        <div class="works-img-all works-img-8"></div>
-                        <a class="link-wrap" data-lity="" href="https://vimeo.com/95515307"><span></span><span></span></a>
-                        <!-- works item IMG end -->
-                        <!-- works item description start -->
-                        <div class="description">
-                            <!-- title start -->
-                            <h3>Web</h3>
-                            <!-- title end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                            <!-- subtitle start -->
-                            <div class="description-second">A Vimeo Video</div>
-                            <!-- subtitle end -->
-                            <!-- divider start -->
-                            <div class="inner-divider-half inner-divider-half-works"></div>
-                            <!-- divider end -->
-                        </div>
-                        <!-- works item description end -->
-                    </div>
-                </div>
                 <!-- works item 8 end -->
             </div>
         </div>
@@ -1245,6 +1142,7 @@
                             <p>
                                 Punjab Pakistan, Sahiwal | 57000
                             </p>
+                            <p>Contact | Whatsapp | Phone Number: +923196977218</p>
                         </div>
                         <!-- section TXT end -->
                         <!-- divider start -->
@@ -1278,7 +1176,7 @@
                     <div class="col-lg-12">
                         <!-- contact form start -->
                         <div id="contact-form">
-                            <form action="https://www.11-76.com/themes/blackex/contact.php" id="form" method="post" name="send">
+                            <form action="contact.php" id="form" method="post" name="send">
                                 <!-- col start -->
                                 <div class="col-sm-4 col-md-4 col-lg-4">
                                     <input class="requiredField name" id="name" name="name" placeholder="Name" type="text" />
@@ -1306,6 +1204,141 @@
                                 </div>
                             </form>
                         </div>
+                        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  // Place this code in a separate JS file or at the bottom of your HTML
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.getElementById('form');
+  const submitButton = document.getElementById('submit');
+  
+  if (form) {
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      
+      // Disable the submit button to prevent multiple submissions
+      submitButton.disabled = true;
+      
+      // Simple validation
+      const requiredFields = form.querySelectorAll('.requiredField');
+      let hasError = false;
+      
+      requiredFields.forEach(field => {
+        if (!field.value.trim()) {
+          field.classList.add('error');
+          hasError = true;
+        } else {
+          field.classList.remove('error');
+        }
+      });
+      
+      // Validate email format
+      const emailField = form.querySelector('.email');
+      if (emailField && emailField.value.trim()) {
+        const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailPattern.test(emailField.value.trim())) {
+          emailField.classList.add('error');
+          hasError = true;
+        }
+      }
+      
+      if (hasError) {
+        submitButton.disabled = false;
+        return;
+      }
+      
+      // Create a feedback element
+      let feedbackEl = document.getElementById('form-feedback');
+      if (!feedbackEl) {
+        feedbackEl = document.createElement('div');
+        feedbackEl.id = 'form-feedback';
+        form.appendChild(feedbackEl);
+      }
+      
+      // Show loading message
+      feedbackEl.innerHTML = '<p class="sending">Sending message...</p>';
+      feedbackEl.style.display = 'block';
+      
+      // Collect form data
+      const formData = new FormData(form);
+      
+      // Send AJAX request
+      fetch('contact.php', {
+        method: 'POST',
+        body: formData
+      })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(data => {
+        if (data.success) {
+          feedbackEl.innerHTML = '<p class="success">Your message has been sent successfully!</p>';
+          form.reset();
+        } else {
+          feedbackEl.innerHTML = `<p class="error">${data.message || 'Something went wrong. Please try again.'}</p>`;
+        }
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        feedbackEl.innerHTML = '<p class="error">Failed to send message. Please try again later.</p>';
+      })
+      .finally(() => {
+        // Re-enable submit button
+        submitButton.disabled = false;
+        
+        // Scroll to feedback
+        feedbackEl.scrollIntoView({behavior: 'smooth'});
+        
+        // Hide feedback after 5 seconds if success
+        if (feedbackEl.querySelector('.success')) {
+          setTimeout(() => {
+            feedbackEl.style.display = 'none';
+          }, 5000);
+        }
+      });
+    });
+  }
+  
+  // Add some basic styling for feedback messages
+  const style = document.createElement('style');
+  style.textContent = `
+    #form-feedback {
+      margin: 20px 0;
+      padding: 10px 15px;
+      border-radius: 4px;
+    }
+    #form-feedback .success {
+      color: #155724;
+      background-color: #d4edda;
+      border-color: #c3e6cb;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    #form-feedback .error {
+      color: #721c24;
+      background-color: #f8d7da;
+      border-color: #f5c6cb;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    #form-feedback .sending {
+      color: #0c5460;
+      background-color: #d1ecf1;
+      border-color: #bee5eb;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    .requiredField.error {
+      border-color: #dc3545 !important;
+      background-color: rgba(220, 53, 69, 0.1) !important;
+    }
+  `;
+  document.head.appendChild(style);
+});
+</script>
+
                         <!-- contact form end -->
                     </div>
                     <!-- col end -->
